@@ -1,0 +1,15 @@
+{
+  "case_name": "PayPal_FinancialWellness",
+  "date_analyzed": "2026-03-24",
+  "n_agents": 20,
+  "n_rounds": 3,
+  "total_tokens": 64000,
+  "total_cost_usd": 0.192,
+  "top_recommendations": [
+    "Employee-Validated B2B Financial Wellness Platform",
+    "Core Payments Infrastructure Optimization",
+    "Transaction Data-Driven Alternative Credit Platform"
+  ],
+  "bottom_line": "",
+  "question": ""
+}

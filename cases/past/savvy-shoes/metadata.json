@@ -1,0 +1,24 @@
+{
+  "case_name": "savvy-shoes",
+  "title": "Savvy Shoes",
+  "company": "Savvy Shoes",
+  "industry": "manufacturing",
+  "case_type": "growth_strategy",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "83\u201385",
+  "tags": [
+    "growth_strategy",
+    "product_diversification",
+    "market_analysis",
+    "ebit_expansion",
+    "private_company"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

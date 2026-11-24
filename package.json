@@ -1,0 +1,15 @@
+{
+  "name": "consulting-swarm-slides",
+  "version": "1.0.0",
+  "description": "pptxgenjs slide builder for Consulting Swarm",
+  "main": "deliverables/slide_builder.js",
+  "scripts": {
+    "build-slides": "node deliverables/slide_builder.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

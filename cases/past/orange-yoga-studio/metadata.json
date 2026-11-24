@@ -1,0 +1,26 @@
+{
+  "case_name": "orange-yoga-studio",
+  "title": "Orange Yoga Studio",
+  "company": "Orange Yoga Studio",
+  "industry": "wellness",
+  "case_type": "cost_reduction",
+  "source_pdf": "Fuqua-Case-book-2014.pdf",
+  "page_range": "53\u201365",
+  "tags": [
+    "small_business",
+    "profitability",
+    "cost_structure",
+    "pricing",
+    "fixed_costs",
+    "wellness",
+    "break_even_analysis"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Financial analysis reveals Orange Yoga is operating at a monthly loss of approximately $1,650. Monthly revenue is $12,864 (from $12 per-class fees with 8 students on weekdays and 6 on weekends), while monthly costs total $14,450 (including $3,500 rent, $150 insurance, $3,200 administration, $7,100 instructor salaries, and $500 loan payments). The profit decline resulted from a $2,000 monthly rent increase and $10 per-class salary increase for instructors.",
+  "question": ""
+}

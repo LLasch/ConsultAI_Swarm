@@ -1,0 +1,24 @@
+{
+  "case_name": "pharmaceutical-rare-disease-business-growth",
+  "title": "Pharmaceutical Rare Disease Business Growth",
+  "company": "Large pharmaceutical company (unnamed)",
+  "industry": "healthcare",
+  "case_type": "growth_strategy",
+  "source_pdf": "Fuqua-Case-book-2014.pdf",
+  "page_range": "244\u2013249",
+  "tags": [
+    "growth_strategy",
+    "acquisitions",
+    "pharmaceutical",
+    "rare_disease",
+    "m&a"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Internal growth alone would generate only $1.1B by 2016, creating a $1.4B shortfall from the $2.5B doubling goal. Three strategic acquisitions of rare disease assets are required to achieve the target. The case does not disclose whether this strategy was actually implemented or what the final results were.",
+  "question": ""
+}

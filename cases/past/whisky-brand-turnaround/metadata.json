@@ -1,0 +1,25 @@
+{
+  "case_name": "whisky-brand-turnaround",
+  "title": "Whisky Brand Turnaround",
+  "company": "Unnamed whisky company",
+  "industry": "manufacturing",
+  "case_type": "pricing_strategy",
+  "source_pdf": "Wharton_2010.pdf",
+  "page_range": "54\u201357",
+  "tags": [
+    "pricing",
+    "turnaround",
+    "profit_optimization",
+    "elasticity",
+    "competitive_response",
+    "brand_positioning"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "The price increase is projected to generate an additional $22m in profits, representing a ~30% increase in total profitability compared to the current $15.00 pricing.",
+  "question": ""
+}

@@ -1,0 +1,27 @@
+{
+  "case_name": "creditdebit-card-processor",
+  "title": "Credit/Debit Card Processor",
+  "company": "Pierce Processing",
+  "industry": "finance",
+  "case_type": "growth_strategy",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "37\u201339",
+  "tags": [
+    "pricing_strategy",
+    "revenue_diversification",
+    "market_entry",
+    "cannibalization",
+    "b2b",
+    "software_licensing",
+    "financial_services",
+    "market_segmentation"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed. The case provides quantitative frameworks for evaluation: software licensing model would generate $70M revenue over 5 years vs. $50M without it; store-value card segment entry would yield $300K first-year revenue with $100K accounting profit after depreciation, but does not specify which strategy Pierce ultimately chose or its actual results.",
+  "question": ""
+}

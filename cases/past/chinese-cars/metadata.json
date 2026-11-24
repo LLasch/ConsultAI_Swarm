@@ -1,0 +1,26 @@
+{
+  "case_name": "chinese-cars",
+  "title": "Chinese Cars",
+  "company": "Large Chinese conglomerate (unnamed)",
+  "industry": "manufacturing",
+  "case_type": "market_entry",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "9\u201311",
+  "tags": [
+    "market_entry",
+    "china",
+    "automotive",
+    "supply_chain",
+    "b2b",
+    "manufacturing",
+    "export"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "The company implemented the subcontracting strategy as recommended. This was identified as the most efficient way to enter the US market on a large scale given the constraints of OEM procurement timelines (24 months supplier selection plus 12 months to get on preferred supplier list = 3 years lead time) and the company's immediate production readiness.",
+  "question": ""
+}

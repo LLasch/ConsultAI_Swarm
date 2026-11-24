@@ -1,0 +1,25 @@
+{
+  "case_name": "manufacturer-of-ball-bearings",
+  "title": "Manufacturer of Ball Bearings",
+  "company": "Ball Bearings Manufacturer (unnamed)",
+  "industry": "manufacturing",
+  "case_type": "revenue_diversification",
+  "source_pdf": "Haas_2006.pdf",
+  "page_range": "22\u201322",
+  "tags": [
+    "revenue_diversification",
+    "manufacturing",
+    "procurement",
+    "service_business",
+    "supplier_management",
+    "b2b"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "The business model is currently in the planning phase. No financial results or revenue projections are disclosed.",
+  "question": ""
+}

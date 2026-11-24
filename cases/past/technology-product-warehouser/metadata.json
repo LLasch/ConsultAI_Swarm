@@ -1,0 +1,28 @@
+{
+  "case_name": "technology-product-warehouser",
+  "title": "Technology Product Warehouser",
+  "company": "Unnamed technology product warehouser",
+  "industry": "technology",
+  "case_type": "turnaround",
+  "source_pdf": "Haas_2006.pdf",
+  "page_range": "29\u201329",
+  "tags": [
+    "turnaround",
+    "market_contraction",
+    "distribution",
+    "pricing_pressure",
+    "competitive_analysis",
+    "b2b",
+    "technology_hardware",
+    "market_share_decline",
+    "strategic_options"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

@@ -1,0 +1,25 @@
+{
+  "case_name": "institutional-asset-manager-fees",
+  "title": "Institutional Asset Manager Fees",
+  "company": "Unnamed institutional asset manager (examples: Fidelity, Capital Group Companies)",
+  "industry": "finance",
+  "case_type": "pricing_strategy",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "65\u201368",
+  "tags": [
+    "pricing_strategy",
+    "discounting",
+    "sales_incentives",
+    "institutional_clients",
+    "fee_structure",
+    "asset_management"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed. The case indicates the goal is to raise the company's average fee to at least industry average through systematic changes to discount practices and sales incentive structures, but specific financial results are not provided.",
+  "question": ""
+}

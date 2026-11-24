@@ -1,0 +1,27 @@
+{
+  "case_name": "growth-strategy-case-specialty-chemicals",
+  "title": "Growth Strategy Case (Specialty Chemicals)",
+  "company": "Performance Chemicals division of a $7 billion Specialty Chemicals Company",
+  "industry": "manufacturing",
+  "case_type": "growth_strategy",
+  "source_pdf": "Haas_2006.pdf",
+  "page_range": "23\u201324",
+  "tags": [
+    "growth_strategy",
+    "specialty_chemicals",
+    "manufacturing",
+    "business_model_innovation",
+    "market_analysis",
+    "product_service_bundling",
+    "commoditization",
+    "organizational_change"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Preliminary projections indicated the potential to quadruple the size of the Performance Chemicals group from $250 million to $1 billion in 5 years, representing approximately 20% annual growth. The client agreed with Deloitte's recommendations and began implementation.",
+  "question": ""
+}

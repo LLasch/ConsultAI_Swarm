@@ -1,0 +1,27 @@
+{
+  "case_name": "woem",
+  "title": "WOEM",
+  "company": "WOEM (Wedding cakes, clothing, and wedding planning)",
+  "industry": "retail",
+  "case_type": "revenue_diversification",
+  "source_pdf": "Fuqua-Case-book-2014.pdf",
+  "page_range": "164\u2013170",
+  "tags": [
+    "profitability",
+    "revenue_diversification",
+    "wedding_industry",
+    "cost_analysis",
+    "market_entry",
+    "los_angeles",
+    "retail",
+    "business_portfolio"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

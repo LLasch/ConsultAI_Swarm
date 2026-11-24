@@ -1,0 +1,24 @@
+{
+  "case_name": "new-england-retail-bank",
+  "title": "New England Retail Bank",
+  "company": "New England Retail Bank",
+  "industry": "finance",
+  "case_type": "growth_strategy",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "86\u201389",
+  "tags": [
+    "profitability_decline",
+    "cross_selling",
+    "revenue_growth",
+    "retail_banking",
+    "product_penetration"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Analysis revealed that reaching the $50 million goal in one year would require adding 250,000 investment product customers (a 260% increase from the current 70,000), which was deemed unrealistic. The recommendation was to pursue cross-selling as a longer-term strategy while further investigating why the bank's competitive position in investments is only medium despite strong market growth (7%) and attractive ROE (14%).",
+  "question": ""
+}

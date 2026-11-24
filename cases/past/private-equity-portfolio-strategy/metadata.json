@@ -1,0 +1,29 @@
+{
+  "case_name": "private-equity-portfolio-strategy",
+  "title": "Private Equity Portfolio Strategy",
+  "company": "Unnamed private equity firm",
+  "industry": "finance",
+  "case_type": "growth_strategy",
+  "source_pdf": "Haas_2006.pdf",
+  "page_range": "20\u201321",
+  "tags": [
+    "private_equity",
+    "acquisitions",
+    "automotive",
+    "sensors",
+    "npv_analysis",
+    "portfolio_strategy",
+    "market_entry",
+    "growth_strategy",
+    "technology",
+    "fragmented_market"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "NPV analysis indicates a positive return of $1.34M over three years at 10% cost of capital, with cumulative cash flows of $31.26M against total investments of $29.92M. The framework identifies multiple strategic advantages including access to new technologies, portfolio diversification, and potential industry leadership in a fragmented market.",
+  "question": ""
+}

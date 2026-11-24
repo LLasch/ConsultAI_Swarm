@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Generated / local data
+output/
+knowledge/chroma_db/
+deliverables/_chartjs_cache.js
+
+# Real client work (confidential)
+cases/past/180DC - Humane Society/
+cases/past/Museum of Archeology/
+cases/past/**/materials/*.pdf
+deliverables/templates/*.pdf

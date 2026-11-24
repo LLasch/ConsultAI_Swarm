@@ -1,0 +1,25 @@
+{
+  "case_name": "telecom-service-provider-churn-rate-management",
+  "title": "Telecom Service Provider - Churn Rate Management",
+  "company": "Telecom Service Provider (unnamed)",
+  "industry": "technology",
+  "case_type": "cost_reduction",
+  "source_pdf": "Wharton_2010.pdf",
+  "page_range": "62\u201365",
+  "tags": [
+    "churn_rate",
+    "customer_retention",
+    "recession",
+    "pricing",
+    "competitive_strategy",
+    "telecom"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "The firm needs to steal 1.75M customers from competitors to maintain 50M subscribers. Recommendations include customized price plans, defection prediction models, loyalty programs, improved coverage, referral programs, and personalized customer communications.",
+  "question": ""
+}

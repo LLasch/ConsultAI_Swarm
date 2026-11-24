@@ -1,0 +1,26 @@
+{
+  "case_name": "bank-increasing-market-share",
+  "title": "Bank Increasing Market Share",
+  "company": "Major diversified financial services firm (unnamed)",
+  "industry": "finance",
+  "case_type": "growth_strategy",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "3\u20138",
+  "tags": [
+    "growth_strategy",
+    "market_share",
+    "sales_force",
+    "banking",
+    "mortgages",
+    "channel_strategy",
+    "profitability_analysis"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not specified",
+  "question": ""
+}

@@ -1,0 +1,16 @@
+{
+  "case_name": "FerrariCase",
+  "date_analyzed": "2026-03-24",
+  "n_agents": 20,
+  "n_rounds": 3,
+  "total_tokens": 64000,
+  "total_cost_usd": 0.192,
+  "top_recommendations": [
+    "Dual-Source Critical Components with Quality-First Approach",
+    "Staged EV Technology Partnerships with Independent Validation",
+    "Dedicated Hybrid Excellence Center",
+    "Conditional Formula E Market Entry"
+  ],
+  "bottom_line": "",
+  "question": ""
+}

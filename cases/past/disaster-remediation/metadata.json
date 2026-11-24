@@ -1,0 +1,24 @@
+{
+  "case_name": "disaster-remediation",
+  "title": "Disaster Remediation",
+  "company": "US-based fire and water remediation services provider",
+  "industry": "services",
+  "case_type": "market_entry",
+  "source_pdf": "Haas_2006.pdf",
+  "page_range": "39\u201340",
+  "tags": [
+    "market_entry",
+    "services",
+    "profitability_analysis",
+    "competitive_positioning",
+    "diversification"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Preliminary financial analysis shows the client could achieve a 27% profit margin ($75 price - $50 labor and supply costs = $18.75 profit per job) competing against national players in the quality segment. However, the outcome of actual market entry was not disclosed; the case indicates the client must develop a tailored value proposition and anticipate competitor reactions before proceeding.",
+  "question": ""
+}

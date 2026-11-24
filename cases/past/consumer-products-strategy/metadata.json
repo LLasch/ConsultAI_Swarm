@@ -1,0 +1,27 @@
+{
+  "case_name": "consumer-products-strategy",
+  "title": "Consumer Products Strategy",
+  "company": "Large multinational consumer products company (unnamed)",
+  "industry": "retail",
+  "case_type": "market_entry",
+  "source_pdf": "Fuqua-Case-book-2014.pdf",
+  "page_range": "236\u2013243",
+  "tags": [
+    "market_entry",
+    "pricing_strategy",
+    "consumer_products",
+    "low_income",
+    "product_portfolio",
+    "distribution",
+    "brand_positioning",
+    "diaper_category"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Projected to generate an additional $25M in revenue from the low-income segment by entering the diaper category with smaller, more affordable package sizes.",
+  "question": ""
+}

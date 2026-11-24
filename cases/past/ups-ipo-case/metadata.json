@@ -1,0 +1,18 @@
+{
+  "case_name": "UPS IPO Valuation",
+  "date_analyzed": "1999-11",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [
+    "Price between FedEx peer multiples and best-of-breed \u2014 FedEx floor, brand premium justified",
+    "Use IPO proceeds as acquisition currency for strategic logistics acquisitions",
+    "Preserve employee ownership culture through structured equity programs post-IPO",
+    "Assess customer concentration risk \u2014 any 10%+ customer who can vertically integrate is a strategic threat"
+  ],
+  "bottom_line": "IPO at $50 raised $5.47B (largest US IPO ever). 25-year arc: steady growth through 2015, COVID peak at $192, then Amazon-driven decline to ~$100.",
+  "industry": "logistics/transportation",
+  "case_type": "ipo_valuation",
+  "source": "Harvard Business School Case 9-103-015"
+}

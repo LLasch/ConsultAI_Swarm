@@ -1,0 +1,26 @@
+{
+  "case_name": "major-magazine-publisher",
+  "title": "Major Magazine Publisher",
+  "company": "Major Magazine Publisher",
+  "industry": "media",
+  "case_type": "growth_strategy",
+  "source_pdf": "Wharton_2010.pdf",
+  "page_range": "66\u201369",
+  "tags": [
+    "launch",
+    "growth_strategy",
+    "magazine",
+    "market_analysis",
+    "cannibalization",
+    "cost_synergies",
+    "media_publishing"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Expected to generate $13.6M in annual revenue, which exceeds the $10M target. Profitability depends on keeping total costs (fixed and variable) below $3.6M annually.",
+  "question": ""
+}

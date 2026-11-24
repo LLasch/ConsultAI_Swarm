@@ -1,0 +1,27 @@
+{
+  "case_name": "megabank-underpenetration",
+  "title": "Megabank Underpenetration",
+  "company": "Megabank",
+  "industry": "finance",
+  "case_type": "market_entry",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "31\u201333",
+  "tags": [
+    "credit_cards",
+    "market_entry",
+    "hispanic_market",
+    "direct_mail",
+    "cross_sell",
+    "penetration",
+    "customer_acquisition",
+    "branch_banking"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

@@ -1,0 +1,26 @@
+{
+  "case_name": "heartcorp",
+  "title": "Heartcorp",
+  "company": "Heartcorp",
+  "industry": "healthcare",
+  "case_type": "pricing_strategy",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "34\u201336",
+  "tags": [
+    "pricing_strategy",
+    "medical_devices",
+    "cardiovascular",
+    "market_entry",
+    "value_based_pricing",
+    "willingness_to_pay",
+    "stakeholder_management"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

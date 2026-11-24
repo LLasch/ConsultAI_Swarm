@@ -1,0 +1,26 @@
+{
+  "case_name": "greek-television-channel",
+  "title": "Greek Television Channel",
+  "company": "Greek free-to-air television channel",
+  "industry": "media",
+  "case_type": "turnaround",
+  "source_pdf": "LBS_2006.pdf",
+  "page_range": "114\u2013125",
+  "tags": [
+    "turnaround",
+    "media",
+    "advertising",
+    "greece",
+    "cost_structure",
+    "competitive_dynamics",
+    "profitability"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

@@ -1,0 +1,25 @@
+{
+  "case_name": "piano-market-sizing",
+  "title": "Piano Market Sizing",
+  "company": "Not specified",
+  "industry": "retail",
+  "case_type": "general_strategy",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "26\u201327",
+  "tags": [
+    "market_sizing",
+    "estimation",
+    "consumer_retail",
+    "pricing",
+    "segmentation",
+    "mckinsey"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "The example calculation arrives at approximately $2.2 billion in total annual piano sales ($1B in new piano sales and $1.2B in used piano sales), based on 510K total pianos sold annually at blended average prices.",
+  "question": ""
+}

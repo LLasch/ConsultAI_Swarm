@@ -1,0 +1,29 @@
+{
+  "case_name": "private-label-sales",
+  "title": "Private Label Sales",
+  "company": "Bottled water company (e.g. Poland Springs)",
+  "industry": "consumer_packaged_goods",
+  "case_type": "growth_strategy",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "24\u201325",
+  "tags": [
+    "private_label",
+    "cpg",
+    "bottled_water",
+    "retailer_relationships",
+    "cannibalization",
+    "brand_strategy",
+    "pricing",
+    "market_segmentation",
+    "capacity_planning",
+    "distribution"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

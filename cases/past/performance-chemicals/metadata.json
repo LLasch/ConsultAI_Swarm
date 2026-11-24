@@ -1,0 +1,28 @@
+{
+  "case_name": "performance-chemicals",
+  "title": "Performance Chemicals",
+  "company": "Performance Chemicals (division of $7 billion Specialty Chemicals Company)",
+  "industry": "manufacturing",
+  "case_type": "growth_strategy",
+  "source_pdf": "LBS_2006.pdf",
+  "page_range": "161\u2013164",
+  "tags": [
+    "growth_strategy",
+    "manufacturing",
+    "commodities",
+    "cost_reduction",
+    "volume_growth",
+    "competitive_analysis",
+    "porter_five_forces",
+    "profit_growth",
+    "market_maturity"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

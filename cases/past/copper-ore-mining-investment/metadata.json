@@ -1,0 +1,25 @@
+{
+  "case_name": "copper-ore-mining-investment",
+  "title": "Copper Ore Mining Investment",
+  "company": "Excavator and Drillhammer (two mining companies)",
+  "industry": "manufacturing",
+  "case_type": "general_strategy",
+  "source_pdf": "Wharton_2010.pdf",
+  "page_range": "58\u201361",
+  "tags": [
+    "joint_venture",
+    "mining",
+    "investment_valuation",
+    "negotiation",
+    "capital_allocation",
+    "manufacturing"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Excavator alone generates $120M total value ($300M profit minus $180M capital investment). Drillhammer alone generates -$200M total value (loses $60M over life plus $140M capital). The JV generates $460M total value ($800M profit minus $340M capital investment), creating $340M in incremental value. Recommended split: Drillhammer receives $170M, Excavator receives $290M.",
+  "question": ""
+}

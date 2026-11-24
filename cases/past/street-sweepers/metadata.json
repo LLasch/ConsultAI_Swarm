@@ -1,0 +1,27 @@
+{
+  "case_name": "street-sweepers",
+  "title": "Street Sweepers",
+  "company": "Industrial conglomerate (street sweeper manufacturing unit)",
+  "industry": "manufacturing",
+  "case_type": "turnaround",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "44\u201347",
+  "tags": [
+    "market_share_loss",
+    "product_innovation",
+    "competitive_response",
+    "cost_management",
+    "manufacturing",
+    "turnaround",
+    "divestiture",
+    "market_segmentation"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "The unit was divested to a strategic buyer with existing air technology capabilities. The analysis identified that approximately 64% of the national market would remain mechanical sweepers (ranging from 22% in the south to 22% in the north, with air sweepers at 18-8% respectively), indicating a stable niche market could be maintained with proper positioning.",
+  "question": ""
+}

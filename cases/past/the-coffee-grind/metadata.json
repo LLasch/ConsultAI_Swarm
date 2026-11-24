@@ -1,0 +1,24 @@
+{
+  "case_name": "the-coffee-grind",
+  "title": "The Coffee Grind",
+  "company": "Coffee Grind Division (unnamed parent company)",
+  "industry": "manufacturing",
+  "case_type": "general_strategy",
+  "source_pdf": "Wharton_2010.pdf",
+  "page_range": "74\u201377",
+  "tags": [
+    "profitability",
+    "distribution_channel",
+    "market_positioning",
+    "commoditization",
+    "mature_product"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

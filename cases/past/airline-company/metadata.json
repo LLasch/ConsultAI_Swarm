@@ -1,0 +1,26 @@
+{
+  "case_name": "airline-company",
+  "title": "Airline Company",
+  "company": "Major airline company (Brazil domestic)",
+  "industry": "aviation",
+  "case_type": "revenue_diversification",
+  "source_pdf": "Haas_2006.pdf",
+  "page_range": "52\u201353",
+  "tags": [
+    "aviation",
+    "capacity_optimization",
+    "revenue_growth",
+    "brazil",
+    "pricing",
+    "marketing_strategy",
+    "operational_efficiency"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Financial analysis shows adding one extra passenger per flight generates approximately $3.36 million in monthly incremental profit. Calculation: 800 flights/day \u00d7 30 days \u00d7 $140 average ticket = $3,360,000. Marginal cost per additional passenger is negligible, making the full incremental revenue the profit gain.",
+  "question": ""
+}

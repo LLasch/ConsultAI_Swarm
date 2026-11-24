@@ -1,0 +1,29 @@
+{
+  "case_name": "oklahoma-gas-company-ogc",
+  "title": "Oklahoma Gas Company (OGC)",
+  "company": "Oklahoma Gas Company",
+  "industry": "energy",
+  "case_type": "growth_strategy",
+  "source_pdf": "Fuqua-Case-book-2014.pdf",
+  "page_range": "34\u201341",
+  "tags": [
+    "energy",
+    "natural_gas",
+    "oil_exploration",
+    "acquisition",
+    "valuation",
+    "commodity_prices",
+    "turnaround",
+    "strategic_options",
+    "oklahoma",
+    "diversification"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

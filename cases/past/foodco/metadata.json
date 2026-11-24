@@ -1,0 +1,25 @@
+{
+  "case_name": "foodco",
+  "title": "FoodCo",
+  "company": "FoodCo",
+  "industry": "food",
+  "case_type": "cost_reduction",
+  "source_pdf": "Wharton_2010.pdf",
+  "page_range": "82\u201385",
+  "tags": [
+    "cost_reduction",
+    "labor_efficiency",
+    "operations",
+    "capital_constraints",
+    "profitability_enhancement",
+    "manufacturing"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "The efficiency improvement generates 17% cost savings on the $8M labor cost base, totaling $1.36M in annual savings. Revenue grows from $19M to $22.23M (17% increase). After the $500K investment, profitability reaches approximately $7M, though this still falls short of the two-year target and requires additional growth initiatives.",
+  "question": ""
+}

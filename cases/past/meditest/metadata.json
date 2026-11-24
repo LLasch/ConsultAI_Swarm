@@ -1,0 +1,27 @@
+{
+  "case_name": "meditest",
+  "title": "Meditest",
+  "company": "Meditest",
+  "industry": "healthcare",
+  "case_type": "market_entry",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "51\u201354",
+  "tags": [
+    "market_entry",
+    "pricing_strategy",
+    "market_sizing",
+    "medical_devices",
+    "uk_expansion",
+    "diabetes",
+    "consumer_healthcare",
+    "growth_strategy"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Market analysis projects 108,000 annual purchasers in the UK (10% of 1.08M diabetics), growing to 144,000 people with diabetes in 4 years. At projected 25% market share and falling price point (from \u00a3120 to \u00a360), revenues would reach \u00a32.16 million annually in 4 years. However, this revenue was deemed insufficient for company growth objectives, suggesting the need to expand geographically or adjust pricing/market positioning strategy.",
+  "question": ""
+}

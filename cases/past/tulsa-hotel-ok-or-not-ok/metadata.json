@@ -1,0 +1,24 @@
+{
+  "case_name": "tulsa-hotel-ok-or-not-ok",
+  "title": "Tulsa Hotel - OK or not OK?",
+  "company": "Tulsa Hotel",
+  "industry": "hospitality",
+  "case_type": "growth_strategy",
+  "source_pdf": "Wharton_2010.pdf",
+  "page_range": "70\u201373",
+  "tags": [
+    "hospitality",
+    "investment_decision",
+    "pricing_strategy",
+    "profitability_analysis",
+    "revenue_growth"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Projected 3-year profit of $33M against a required profit of $12M to meet 20% ROI target ($33M > $12M, therefore investment is recommended). Average revenue per room per night calculated at $130 across all days.",
+  "question": ""
+}

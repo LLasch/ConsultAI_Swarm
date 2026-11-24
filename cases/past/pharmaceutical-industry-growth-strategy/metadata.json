@@ -1,0 +1,26 @@
+{
+  "case_name": "pharmaceutical-industry-growth-strategy",
+  "title": "Pharmaceutical Industry Growth Strategy",
+  "company": "Unnamed Pharmaceutical Company",
+  "industry": "healthcare",
+  "case_type": "growth_strategy",
+  "source_pdf": "LBS_2006.pdf",
+  "page_range": "126\u2013132",
+  "tags": [
+    "r&d_investment",
+    "growth_strategy",
+    "revenue_growth",
+    "pharmaceutical",
+    "pipeline_development",
+    "organizational_structure",
+    "market_expansion"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

@@ -1,0 +1,27 @@
+{
+  "case_name": "texas-oil",
+  "title": "Texas Oil",
+  "company": "Texas Oil",
+  "industry": "energy",
+  "case_type": "resource_allocation",
+  "source_pdf": "Fuqua-Case-book-2014.pdf",
+  "page_range": "226\u2013235",
+  "tags": [
+    "resource_allocation",
+    "capital_constraint",
+    "prioritization",
+    "npv_analysis",
+    "oil_and_gas",
+    "west_texas",
+    "lease_expiration",
+    "cost_benefit_analysis"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

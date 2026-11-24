@@ -1,0 +1,27 @@
+{
+  "case_name": "cpg-company",
+  "title": "CPG Company",
+  "company": "Large unnamed food and beverage CPG company",
+  "industry": "cpg",
+  "case_type": "growth_strategy",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "59\u201364",
+  "tags": [
+    "growth_strategy",
+    "cpg",
+    "food_service",
+    "market_entry",
+    "competitive_positioning",
+    "portfolio_leverage",
+    "restaurants",
+    "segmentation"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

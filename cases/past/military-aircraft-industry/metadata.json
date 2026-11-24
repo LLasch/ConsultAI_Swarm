@@ -1,0 +1,29 @@
+{
+  "case_name": "military-aircraft-industry",
+  "title": "Military Aircraft Industry",
+  "company": "Military aircraft manufacturer (unnamed)",
+  "industry": "manufacturing",
+  "case_type": "turnaround",
+  "source_pdf": "Haas_2006.pdf",
+  "page_range": "54\u201354",
+  "tags": [
+    "stock_price",
+    "profitability_analysis",
+    "cost_reduction",
+    "consolidation",
+    "mergers_acquisitions",
+    "military",
+    "defense",
+    "turnaround",
+    "market_contraction",
+    "economies_of_scale"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Six months after the acquisition, the company's share price began rising again, indicating successful execution of the consolidation strategy and improved market perception of future profitability.",
+  "question": ""
+}

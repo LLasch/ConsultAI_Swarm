@@ -1,0 +1,16 @@
+{
+  "case_name": "NetflixBollywood",
+  "date_analyzed": "2026-03-26",
+  "n_agents": 20,
+  "n_rounds": 3,
+  "total_tokens": 64000,
+  "total_cost_usd": 0.192,
+  "top_recommendations": [
+    "Launch Ad-Supported Tier for Mass Market Penetration",
+    "Strategic Telecom Partnerships for Bundled Distribution",
+    "Triple Investment in Regional Language Content",
+    "Mobile-First Technology Infrastructure Optimization"
+  ],
+  "bottom_line": "",
+  "question": ""
+}

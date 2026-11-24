@@ -1,0 +1,28 @@
+{
+  "case_name": "gas-stations-and-convenience-stores",
+  "title": "Gas Stations and Convenience Stores",
+  "company": "Unnamed global oil company",
+  "industry": "energy",
+  "case_type": "turnaround",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "28\u201330",
+  "tags": [
+    "retail",
+    "profitability_decline",
+    "competitive_threat",
+    "business_model",
+    "convenience_store",
+    "market_consolidation",
+    "roic",
+    "product_strategy",
+    "supermarket_competition"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "The company selected hot and cold food products for introduction, chosen for their high margins, low shelf-space requirements, and high purchase frequency. McKinsey was implementing the program in European locations at the time of the case writing. Final financial outcomes not disclosed.",
+  "question": ""
+}

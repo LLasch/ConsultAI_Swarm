@@ -1,0 +1,287 @@
+{
+  "1": {
+    "name": "Dr. Sarah Chen",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Engineering Authority Restoration",
+        "n_recommendations": 4,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "5": {
+    "name": "Dr. Amara Osei",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Restore Engineering Veto Authority",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "16": {
+    "name": "Paul Whitfield",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Restore Engineering Authority Structure",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "8": {
+    "name": "Robert Singh",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Restore Engineering Veto Authority",
+        "n_recommendations": 4,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "12": {
+    "name": "Yuki Tanaka",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Restore Engineering Veto Authority",
+        "n_recommendations": 4,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "2": {
+    "name": "Marcus Webb",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Regulatory Partnership Model Implementation",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "6": {
+    "name": "Jordan Blake",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Regulatory Partnership Platform",
+        "n_recommendations": 4,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "21": {
+    "name": "Rachel Torres",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Regulatory Partnership Transformation",
+        "n_recommendations": 4,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "17": {
+    "name": "Dr. Keisha Thornton",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Regulatory Partnership Model",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "22": {
+    "name": "Dr. James Park",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Joint FAA-Boeing Safety Transparency Initiative",
+        "n_recommendations": 4,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "3": {
+    "name": "Priya Nair",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Strategic Pivot to Defense-Centric Portfolio",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "7": {
+    "name": "Claudia Reyes",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Strategic Commercial Aviation Retreat",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "11": {
+    "name": "Carlos Mendoza",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Strategic Commercial Aviation Retreat",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "15": {
+    "name": "Sam Chen",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Strategic Divestiture of Commercial Aircraft",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "4": {
+    "name": "Tom Kessler",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Independent Safety Board Mandate",
+        "n_recommendations": 4,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "10": {
+    "name": "Nina Foster",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Independent Safety Board Reform",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "9": {
+    "name": "Dr. Felix Brandt",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Independent Safety Board Governance",
+        "n_recommendations": 4,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "18": {
+    "name": "Victor Alvarez",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Independent Safety Governance Board",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  },
+  "13": {
+    "name": "Claire Beaumont",
+    "cases_analyzed": 1,
+    "predictions": [
+      {
+        "case": "boeingdisastercase",
+        "top_recommendation": "Establish Pilot/Airline Advisory Council",
+        "n_recommendations": 3,
+        "outcome_quality": 0.7,
+        "date": "2026-03-23"
+      }
+    ],
+    "average_accuracy": 0.7,
+    "weight_multiplier": 1.2
+  }
+}

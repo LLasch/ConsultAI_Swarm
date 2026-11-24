@@ -1,0 +1,27 @@
+{
+  "case_name": "eye-surgery",
+  "title": "Eye Surgery",
+  "company": "Eye surgery equipment manufacturer (unnamed client)",
+  "industry": "healthcare",
+  "case_type": "market_entry",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "48\u201350",
+  "tags": [
+    "market_entry",
+    "m&a",
+    "market_sizing",
+    "synergies",
+    "refractive_surgery",
+    "cataracts",
+    "medical_devices",
+    "growth_strategy"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

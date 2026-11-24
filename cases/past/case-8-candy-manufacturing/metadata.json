@@ -1,0 +1,24 @@
+{
+  "case_name": "case-8-candy-manufacturing",
+  "title": "Case 8: Candy Manufacturing",
+  "company": "Unnamed candy manufacturer (client)",
+  "industry": "manufacturing",
+  "case_type": "general_strategy",
+  "source_pdf": "Wharton_2010.pdf",
+  "page_range": "86\u201389",
+  "tags": [
+    "profitability_analysis",
+    "competitive_positioning",
+    "cost_structure",
+    "pricing",
+    "margin_comparison"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Analysis reveals that competitors have 20% higher profit margins (20%) compared to the client (10%), despite charging 10% lower prices and operating with 20% lower costs. The competitor's superior cost structure more than offsets their lower pricing.",
+  "question": ""
+}

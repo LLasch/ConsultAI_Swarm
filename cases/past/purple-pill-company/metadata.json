@@ -1,0 +1,27 @@
+{
+  "case_name": "purple-pill-company",
+  "title": "Purple Pill Company",
+  "company": "Multinational pharmaceutical and biologics company (unnamed)",
+  "industry": "healthcare",
+  "case_type": "revenue_diversification",
+  "source_pdf": "Fuqua-Case-book-2014.pdf",
+  "page_range": "15\u201322",
+  "tags": [
+    "patent_expiration",
+    "generics",
+    "pharmaceutical",
+    "pricing_strategy",
+    "product_portfolio",
+    "revenue_decline",
+    "otc",
+    "direct_to_consumer"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed; this is a teaching case requiring candidate analysis and recommendation",
+  "question": ""
+}

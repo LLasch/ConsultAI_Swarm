@@ -1,0 +1,15 @@
+{
+  "case_name": "boeingdisastercase",
+  "date_analyzed": "2026-03-23",
+  "n_agents": 20,
+  "n_rounds": 3,
+  "total_tokens": 64000,
+  "total_cost_usd": 0.192,
+  "top_recommendations": [
+    "Independent Safety Governance with Engineering Authority",
+    "Regulatory Partnership Transformation",
+    "Execution-Focused Operating Model"
+  ],
+  "bottom_line": "",
+  "question": ""
+}

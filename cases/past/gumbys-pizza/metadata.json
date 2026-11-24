@@ -1,0 +1,27 @@
+{
+  "case_name": "gumbys-pizza",
+  "title": "Gumby's Pizza",
+  "company": "Gumby's Pizza",
+  "industry": "retail",
+  "case_type": "growth_strategy",
+  "source_pdf": "Columbia_2006.pdf",
+  "page_range": "69\u201375",
+  "tags": [
+    "profitability",
+    "market_share",
+    "regional_expansion",
+    "customer_segmentation",
+    "pizza_retail",
+    "pe_due_diligence",
+    "college_towns",
+    "competitive_positioning"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not disclosed",
+  "question": ""
+}

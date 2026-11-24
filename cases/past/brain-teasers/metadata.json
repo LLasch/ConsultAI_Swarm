@@ -1,0 +1,24 @@
+{
+  "case_name": "brain-teasers",
+  "title": "Brain Teasers",
+  "company": "Not applicable",
+  "industry": "education",
+  "case_type": "general_strategy",
+  "source_pdf": "Haas_2006.pdf",
+  "page_range": "58\u201358",
+  "tags": [
+    "problem_solving",
+    "estimation",
+    "consulting",
+    "analytical_thinking",
+    "business_case_preparation"
+  ],
+  "date_ingested": "2026-03-23",
+  "n_agents": 0,
+  "n_rounds": 0,
+  "total_tokens": 0,
+  "total_cost_usd": 0,
+  "top_recommendations": [],
+  "bottom_line": "Not applicable",
+  "question": ""
+}
